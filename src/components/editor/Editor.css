@@ -1,0 +1,112 @@
+#main {
+    /* border: solid 2px blue; */
+    display: flex;
+    flex-direction: row;
+    height: 84vh;
+    /* height: fit-content; */
+    overflow-y: hidden;
+    width: 100vw;
+    overflow-x: hidden;
+    /* padding-right: 0px; */
+
+}
+#leftone { 
+    /* border: solid 2px yellow; */
+width: 4vw;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+padding-top: 1rem;
+position: fixed;
+
+}
+#lefttwo {
+    /* border: solid 2px yellow; */
+/* width: 20vw; */
+/* -webkit-transition: 0.5s  ease-in-out; */
+/* transition-delay: 1s; */
+margin: 0.5rem;
+width: fit-content;
+margin-right: 0rem;
+margin-left: 4rem;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* transition: 0.1s  ease-in-out; */
+}
+span {
+    margin-top: 2rem;
+}
+h6 {
+    /* text-align: left; */
+    /* position: fixed; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.ediname {
+    text-align: left;
+    margin-top: 0.7rem;
+}
+.filebtn:focus{
+    
+        background-color: blue;
+      
+}
+.inputcode {
+    width: 100%;
+    height: 75%;
+    /* width: 100vw; */
+    background-color: black;
+    color: blue;
+    font-family: aerial;
+    padding: 1rem;
+    border: solid 2px black;
+}
+.inputcode2 {
+    width: 100%;
+    height: 75%;
+    /* width: 100vw; */
+    background-color: white;
+    color: black;
+    font-family: aerial;
+    padding: 1rem;
+    border: solid 2px black;
+}
+#right {
+    /* border: solid 2px yellow; */
+width: 95rem;
+/* max-width: 80rem; */
+margin: 0.5rem;
+margin-right: 0rem;
+display: flex;
+flex-direction: column;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+#rightup { 
+width: 96%;
+height: 30%;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#rightmid{
+    width: 96%;
+height: 70%;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#rightdown{
+    width: 96%;
+height: 30%;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+overflow-y: scroll;
+
+}
+.lbtn {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 80%;
+    margin: 5%;
+    height: 3rem;
+}
+#plus {
+   z-index: 100;
+}
+#minus {
+    z-index: 90;
+    /* visibility: hidden;
+    visibility: visible; */
+}

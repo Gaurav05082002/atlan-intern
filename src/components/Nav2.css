@@ -1,0 +1,22 @@
+.nav2 {
+    width: 100vw;
+    height: fit-content;
+    /* position: fixed; */
+    
+    background-color: white;
+    color: black;
+    padding: 0.3rem;
+    padding-left: 0.5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    box-shadow: 2px 2px;
+
+}
+#navbtn  {
+    margin-left: 0.3rem;
+    margin-left: 0.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navdiv{
+    position: fixed;
+}
