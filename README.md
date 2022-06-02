@@ -1,4 +1,4 @@
-## link of the website > https://frosty-goodall-938901.netlify.app/
+## link of the website > [https://frosty-goodall-938901.netlify.app/](https://gaurav05082002.github.io/atlan-intern/)
 
 ## PAGE LOAD TIME for DeskTop > (
 "Google page speed insights" (new) is used . (link - https://pagespeed.web.dev/ ) \
